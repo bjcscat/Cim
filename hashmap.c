@@ -1,3 +1,6 @@
+#include <stdlib.h>
+#include <string.h>
+
 #include "hashmap.h"
 //hashmap implementation below
 
